@@ -20,6 +20,6 @@ I'm an interaction designer & researcher based in Toronto, passionate about buil
 I spend my school time outside classes taking part in leadership and mentoring positions within the student association for my program.
 
 - 💻 I’m currently working on a toolkit for design students to help them develop a reflective design practice.
-- 🎓  𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 Bachelor of Interaction Design 𝚠𝚒𝚝𝚑 𝙲𝚘-𝚘𝚙 𝚊𝚝 Sheridan College, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸1 (I'm so close)
+- 🎓 Studying Honours Bachelor of Interaction Design at Sheridan College, class of 2021 (I'm so close)
 - 📫 You can find me at my [portfolio website](https://www.tanvichhabra.com/) or on [LinkedIn](https://www.linkedin.com/in/tanvichhabra/)
 - 😄 Pronouns: she/her
