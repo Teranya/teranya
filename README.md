@@ -1,4 +1,4 @@
-###  Hi, I'm Tanvi. 👋
+###  Hi 👋
 
 <!--
 **Teranya/teranya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ I'm an interaction designer & researcher based in Toronto, passionate about buil
 
 I spend my school time outside classes taking part in leadership and mentoring positions within the student association for my program.
 
-- 💻 I’m currently working as a product designer in Toronto.
+- 💻 I’m currently working as a product designer in Tkaronto.
 - 🎓 Studied Interaction Design @ Sheridan College,and Graphic Design @ OCADU
 - 📫 You can find me at my [website](https://www.tanvichhabra.com/)
 - 😄 Pronouns: she/her
