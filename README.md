@@ -19,7 +19,7 @@ I'm an interaction designer & researcher based in Toronto, passionate about buil
 
 I spend my school time outside classes taking part in leadership and mentoring positions within the student association for my program.
 
-- 💻 I’m currently working on a toolkit for design students to help them develop a reflective design practice.
-- 🎓 Studying Honours Bachelor of Interaction Design at Sheridan College, class of 2021 (I'm so close)
-- 📫 You can find me at my [portfolio website](https://www.tanvichhabra.com/) or on [LinkedIn](https://www.linkedin.com/in/tanvichhabra/)
+- 💻 I’m currently working as a product designer in Toronto.
+- 🎓 Studied Interaction Design @ Sheridan College,and Graphic Design @ OCADU
+- 📫 You can find me at my [portfolio website](https://www.tanvichhabra.com/)
 - 😄 Pronouns: she/her
