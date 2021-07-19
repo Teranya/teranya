@@ -21,5 +21,5 @@ I spend my school time outside classes taking part in leadership and mentoring p
 
 - 💻 I’m currently working as a product designer in Toronto.
 - 🎓 Studied Interaction Design @ Sheridan College,and Graphic Design @ OCADU
-- 📫 You can find me at my [portfolio website](https://www.tanvichhabra.com/)
+- 📫 You can find me at my [website](https://www.tanvichhabra.com/)
 - 😄 Pronouns: she/her
